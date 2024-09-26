@@ -1,2 +1,1 @@
-# Password-Generator
- this is a password generatot with python
+in this password generator  we generate a password with the values that we have in websit textbox and username texbox
